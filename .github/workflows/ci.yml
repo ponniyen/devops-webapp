@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Ponniyen Selvan Cloud Storage Platform</title> 
+<title>Ponniyen Selvan Cloud Storage Platform</title>
 
 <style>
 body {
@@ -55,7 +55,7 @@ footer {
 <body>
 
 <header>
-<h1>Ponniyen Selvan Cloud Storage Platform</h1> 
+<h1>Ponniyen Selvan Cloud Storage Platform</h1>
 <p>DevOps Automated Deployment using GitHub Actions and Netlify</p>
 </header>
 
@@ -114,7 +114,7 @@ Monitoring Status: ENABLED
 </div>
 
 <footer>
-<p>©️ 2026 Ponniyen Selvan| DevOps Virtual Lab Experiment</p> 
+<p>©️ 2026 Ponniyen Selvan | DevOps Virtual Lab Experiment</p>
 </footer>
 
 </body>
